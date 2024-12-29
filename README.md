@@ -22,7 +22,8 @@ This repository highlights the use of **Microsoft Excel** for data analysis and 
 
 ## **Files in this Repository**  
 
-| File Name             | Description                                                                 |
-|------------------------|-----------------------------------------------------------------------------|
-| `sales_dashboard.xlsx` | Dashboard showcasing sales data trends using pivot tables and slicers.     |
-| `covid_analysis.xlsx`  | Analysis of COVID-19 data with simple charts and summary tables.           |
+ | Project                               | File Name                                                                   | Description                                                                                                               |
+ |---------------------------------------|---------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+ |  Movie DB Analysis                    | `IMBD_Movies.xlsx`                          | Analyzed Movie Database to explore trends, visualize genre popularity, and uncover factors influencing movie success.     |
+ |  Customer Calls Analysis              | `Call_Volume_Trend_Analysis_Project.xlsx`   | Analyzed customer call data to identify trends, optimize response times, and improve service efficiency.                  |
+ |  Loan Data Analysis                   | `Previous_application-Analysis.xlsx`,  `Application_data-Analysis.xlsx`      | Analyzed loan data to uncover trends in loan approvals, repayment patterns, and customer demographics.                   |
