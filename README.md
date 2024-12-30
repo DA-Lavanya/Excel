@@ -28,4 +28,4 @@ This repository highlights the use of **Microsoft Excel** for data analysis and 
  |  [Customer Calls Analysis](https://drive.google.com/drive/folders/1e4AHtB4j8h8ml-FZ8C8M0gPmUTp2_Nw6?usp=sharing)             | `Call_Volume_Trend_Analysis_Project.xlsx`   | Analyzed customer call data to identify trends, optimize response times, and improve service efficiency.                  |
  |  [Loan Data Analysis](https://drive.google.com/drive/folders/1f_FAUl-B-X7SJCUc7pLXhoOHTpLFbsSF?usp=sharing)                  | `Previous_application-Analysis.xlsx`,  `Application_data-Analysis.xlsx`      | Analyzed loan data to uncover trends in loan approvals, repayment patterns, and customer demographics.                   |
 
- ****Mandatory** instruction to download the Excel files and check the presentation link inside the PDF file .
+ ****Note:** Instruction to download the Excel files and check the presentation link inside the PDF file .
